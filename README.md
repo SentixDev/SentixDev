@@ -22,3 +22,9 @@ Im the coder of the [snowpiercer minecraft server](https://snowpiercer.net) with
 
 ### Frontend
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
+
+
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sentixdev-sentixdev.visitor.badge.reloaded)
+
