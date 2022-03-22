@@ -8,6 +8,7 @@ Im the coder of the [snowpiercer minecraft server](https://snowpiercer.net) with
 - [Pterodactyl](https://pterodactyl.io/)
 - [Svelte-Kit](https://kit.svelte.dev/)
 - [Rich](https://github.com/Textualize/rich)
+- [Pterm](https://github.com/pterm/pterm)
 - [Blossom](https://github.com/KyoriPowered/blossom)
 
 ## What i use
