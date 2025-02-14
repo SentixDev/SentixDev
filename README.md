@@ -3,12 +3,11 @@
 
 Welcome to my GitHub profile!
 
-You can find me on discord under the name sentix. I'm mainly focused on the backend part, but when it comes to hobby projects I also like to reach into the frontend world. My main languages are kotlin, python and go and i love to use [Gradle](https://gradle.org/), [Exposed](https://github.com/JetBrains/Exposed), [Ktor](https://ktor.io/) and [Fiber](https://gofiber.io/).
+You can find me on discord under the name sentix.
 
 Here are some other cool things you should check out:
 - [SurrealDB](https://surrealdb.com)
-- [Pterodactyl](https://pterodactyl.io/)
-- [Svelte-Kit](https://kit.svelte.dev/)
+- [Pelican](https://pelican.dev/)
 - [Pterm](https://github.com/pterm/pterm)
 - [Rich](https://github.com/Textualize/rich)
 
